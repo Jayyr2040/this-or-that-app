@@ -1,0 +1,6 @@
+{
+  "name": "This or That",
+  "description": "Weigh a decision that matters using a weighted criteria comparison tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
